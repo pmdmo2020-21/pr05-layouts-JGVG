@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         // TODO: USAR UNO DE LOS LAYOUTS DEFINIDOS PARA PROBARLO.
         setContentView(R.layout.linearlayout_activity)
+       // setContentView(R.layout.relativelayout_activity)
+       // setContentView(R.layout.constraintlayout_activity)
+
     }
 }

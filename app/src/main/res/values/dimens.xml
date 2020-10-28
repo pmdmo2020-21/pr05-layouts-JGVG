@@ -7,4 +7,6 @@
     <dimen name="margin_app">20dp</dimen>
     <dimen name="title_size">25sp</dimen>
     <dimen name="description_size">20dp</dimen>
+    <dimen name="margin_app2">10dp</dimen>
+    <dimen name="sice_text">80dp</dimen>
 </resources>
